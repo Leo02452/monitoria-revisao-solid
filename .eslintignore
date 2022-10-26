@@ -1,0 +1,10 @@
+nyc.config.js
+node_modules/
+tests/
+build/
+src/sequelizeDatabase/migrations
+src/sequelizeDatabase/seeders
+src/sequelizeDatabase/mongoSeeders
+src/sequelizeDatabase/config
+src/sequelizeDatabase/models/index.ts
+src/errors
