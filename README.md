@@ -1,11 +1,11 @@
 <h1>Código da monitoria de revisão sobre os princípios de SOLID</h1>
 
 #### Primeira parte:
-A proposta foi criar uma rota de login respeitando os principios de SOLID usando NODE js, Typescript, Express, Sequelize e Mongoose.
-Quando a rota foi finalizada, trocamos o Mongoose pelo Sequelize e precisamos alterar somente um arquivo, que é a factory, e a aplicação continuou funcionando.
+Para mostrar na prática a importância de criar uma aplicação com SOLID, criei uma rota de login usando NODE js, Typescript, Express, Sequelize e Mongoose.
+Quando a rota foi finalizada, troquei o Mongoose pelo Sequelize e precisei alterar somente um arquivo, que é a factory, e a aplicação continuou funcionando.
 
 #### Segunda parte:
-A proposta foi testar o método assíncrono da camada de service usando o plugin 'chai-as-promised' do Chai. Além disso, foram usadas as dependências Mocha e Sinon pra realização desses testes.
+Na segunda parte testei o método assíncrono da camada de service usando o plugin 'chai-as-promised' do Chai para explicar como funciona. Além disso, foram usadas as dependências Mocha e Sinon pra realização desses testes.
 
 ## Para rodar o projeto:
 
