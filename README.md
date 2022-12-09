@@ -1,7 +1,7 @@
 <h1>Código da monitoria de revisão sobre os princípios de SOLID</h1>
 
 #### Primeira parte:
-Para mostrar na prática a importância de criar uma aplicação com SOLID, criei uma rota de login usando NODE js, Typescript, Express, Sequelize e Mongoose.
+Durante a monitoria, para mostrar na prática a importância de criar uma aplicação com SOLID, criei uma rota de login usando NODE js, Typescript, Express, Sequelize e Mongoose.
 Quando a rota foi finalizada, troquei o Mongoose pelo Sequelize e precisei alterar somente um arquivo, que é a factory, e a aplicação continuou funcionando.
 
 #### Segunda parte:
